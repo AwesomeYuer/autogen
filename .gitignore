@@ -169,3 +169,5 @@ wolfram.txt
 tmp/
 
 **/*.onnx
+
+**/AlphaVantageApiKey.py
