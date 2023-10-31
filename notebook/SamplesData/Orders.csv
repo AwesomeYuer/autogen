@@ -1,4 +1,4 @@
-﻿OrderId,OrderNo,CustomerNo,Product,Price
+OrderId,OrderNo,CustomerNo,Product,Price
 4f2afbc8507e4effb17e81dae7a4fe19,1,customer1,烤白薯,0.5
 1aaa41cd9ddf46fa93aeea0478992746,2,customer2,酱香拿铁,3.1
 2187eb0eedcf437bbc4cb310f51e9ed9,3,customer3,蒜香卡布奇诺,10.1
